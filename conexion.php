@@ -3,7 +3,7 @@
 	function conexion(){
 
 	$host = "host=tramway.proxy.rlwy.net";
-	$port = "port=5432";
+	$port = "port=51058";
 	$dbname = "dbname=railway";
 	$user = "user=postgres";
 	$password = "password=DTzSkWJHwCZWfkESsbvytKcdxpxIThys";
